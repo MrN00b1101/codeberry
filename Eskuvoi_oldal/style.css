@@ -1,4 +1,5 @@
 /*--- Default Setup ---*/
 *{
-	
+	box-sizing: border-box;
+	ont-family: 'Muli', monospace;
 }
