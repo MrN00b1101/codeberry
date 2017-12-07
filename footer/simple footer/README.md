@@ -1,0 +1,1 @@
+Egyszerû footer komponens, nem sticky
